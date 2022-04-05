@@ -25,19 +25,20 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/AhmedZakii2/QR-code-component/)
+- Live Site URL: [GitHub Pages](https://ahmedzakii2.github.io/QR-code-component/)
 
 ## My process
 
 ### Built with
 
 - Classy HTML
+- Symantic HTML5 tags
 - CSS custom properties
 - Flexbox
 - SCSS
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+**Note: I built it with dev and html5 the classic or (Rookie) design was commented in both scss and HTML files**
 
 ### What I learned
 
