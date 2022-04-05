@@ -1,0 +1,87 @@
+@import 'settings';
+/*.container{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: $white;
+    width: 16em;
+    height: 25em;
+    border-radius: 2vh;
+    .code{
+        margin-top: -1vh;
+        .qr-code{
+            width: 25vh;
+            border-radius: 1vh;
+        }
+    }
+    .titles{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 2vh;
+        .header{
+            max-width: 45vh;
+            text-align: center;
+            padding-right: 25px;
+            padding-left: 25px;
+            font-size: 1rem;
+        }
+        .paragraph{
+            max-width: 30vh;
+            text-align: center;
+            margin: 10px;
+            padding: 5px;
+            padding-left: 15px;
+            padding-right: 15px;
+            font-size: .8rem;
+            font-weight: 400;
+            color: $grey-blue;
+        }
+    }
+}
+*/
+.container{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.list{
+    background: $white;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    border-radius: 10px;
+}
+.list-items{
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    margin-top: 5px;
+    .code{
+    width: 195px;
+    border-radius: 10px;
+    }
+    .header{
+        max-width: 200px;
+        font-size: 1.1rem;
+    }
+    .comment{
+        max-width: 200px;
+        font-size: 12px;
+        color: $grey-blue;
+        padding-bottom: 10px;
+    }
+}
